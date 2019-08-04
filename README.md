@@ -5,6 +5,8 @@ This course is consisted of 5 parts:
 3. Structuring Machine Learning Projects; 
 4. Convolutional Neural Network; 
 5. Sequence Models. 
+
+
 In this repo, it provides all solutions to required programming homework. 
 
 ## Neural Network and Deep Learning:
