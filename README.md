@@ -1,4 +1,4 @@
-# Deep Learning Course on Coursera
+# Deep Learning on Coursera
 
 ## Weak 2 Programming Homework:
 1. Python Basics with Numpy
